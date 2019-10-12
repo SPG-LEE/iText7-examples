@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df3e61ae-0719-425e-a902-5612f61888a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/libraries/Maven__com_itextpdf_barcodes_7_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/libraries/Maven__com_itextpdf_barcodes_7_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/libraries/Maven__com_itextpdf_font_asian_7_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/libraries/Maven__com_itextpdf_font_asian_7_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/libraries/Maven__com_itextpdf_forms_7_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/libraries/Maven__com_itextpdf_forms_7_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/libraries/Maven__com_itextpdf_hyph_7_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/libraries/Maven__com_itextpdf_hyph_7_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/libraries/Maven__com_itextpdf_io_7_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/libraries/Maven__com_itextpdf_io_7_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/libraries/Maven__com_itextpdf_kernel_7_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/libraries/Maven__com_itextpdf_kernel_7_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/libraries/Maven__com_itextpdf_layout_7_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/libraries/Maven__com_itextpdf_layout_7_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/libraries/Maven__com_itextpdf_pdfa_7_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/libraries/Maven__com_itextpdf_pdfa_7_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/libraries/Maven__com_itextpdf_sign_7_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/libraries/Maven__com_itextpdf_sign_7_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/libraries/Maven__com_opencsv_opencsv_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/libraries/Maven__com_opencsv_opencsv_4_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/libraries/Maven__org_apache_commons_commons_text_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/libraries/Maven__org_apache_commons_commons_text_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/iText-buildingblock-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/iText-buildingblock-1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/src/main/java/C01E01_Text_Paragraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/src/main/java/C01E01_Text_Paragraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/src/main/java/C01E02_Text_Paragraph_Cardo.java" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/src/main/java/C01E02_Text_Paragraph_Cardo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/src/main/java/C01E02_Text_Paragraph_Cardo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/src/main/java/C01E02_Text_Paragraph_Cardo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/src/main/java/C01E03_Text_Paragraph_NoCardo.java" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/src/main/java/C01E03_Text_Paragraph_NoCardo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/src/main/java/C01E04_Czech_Russian_Korean_Wrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/src/main/java/C01E04_Czech_Russian_Korean_Wrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/src/main/java/C01E05_Czech_Russian_Korean_Right.java" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/src/main/java/C01E05_Czech_Russian_Korean_Right.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/src/main/java/C01E06_Czech_Russian_Korean_Unicode.java" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/src/main/java/C01E06_Czech_Russian_Korean_Unicode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/src/main/java/C01E07_FontSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/src/main/java/C01E07_FontSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/src/main/java/C01E08_BoldItalic.java" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/src/main/java/C01E08_BoldItalic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/src/main/java/C01E09_ColorRendering.java" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/src/main/java/C01E09_ColorRendering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/src/main/java/C01E10_ReusingStyles.java" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/src/main/java/C01E10_ReusingStyles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/src/main/resources/fonts/Cardo-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/src/main/resources/fonts/Cardo-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/src/main/resources/fonts/Cardo-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/src/main/resources/fonts/Cardo-Italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/src/main/resources/fonts/Cardo-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/src/main/resources/fonts/Cardo-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/src/main/resources/fonts/FreeSans.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/src/main/resources/fonts/FreeSans.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/src/main/resources/fonts/GenBkBasI.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/src/main/resources/fonts/GenBkBasI.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-buildingblock/iText-buildingblock-1/src/main/resources/fonts/HANBatang.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText-buildingblock-1/src/main/resources/fonts/HANBatang.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-start/iText1-中文输出/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText1-中文输出/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-start/iText1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText1/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-start/iText1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-start/iText1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-start/iText1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-start/iText1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-start/iText2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-start/iText3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-start/iText4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-start/iText5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-start/iText6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText6/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iText-start/iText7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iText-start/iText7/pom.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iText-start/parent/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iText-start/iText1/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iText-start/iText1-中文输出/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iText-start/iText2/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iText-start/iText3/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iText-start/iText4/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iText-start/iText5/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iText-start/iText6/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iText-start/iText7/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/iText-start/iText-buildingblock-1/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/iText-start/iText1/src/main/java/C01E01_HelloWorld.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/iText-start/iText1/pom.xml" />
+        <option value="$PROJECT_DIR$/iText-start/iText1-中文输出/pom.xml" />
+        <option value="$PROJECT_DIR$/iText-start/iText2/pom.xml" />
+        <option value="$PROJECT_DIR$/iText-start/iText3/pom.xml" />
+        <option value="$PROJECT_DIR$/iText-start/iText4/pom.xml" />
+        <option value="$PROJECT_DIR$/iText-start/iText5/pom.xml" />
+        <option value="$PROJECT_DIR$/iText-start/iText6/pom.xml" />
+        <option value="$PROJECT_DIR$/iText-start/iText7/pom.xml" />
+        <option value="$PROJECT_DIR$/iText-start/iText-buildingblock-1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-328" />
+    <option name="y" value="-1448" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="iText7-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iText7-examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iText7-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iText7-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="iText-start" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iText7-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iText7-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="iText-start" type="462c0819:PsiDirectoryNode" />
+              <item name="iText1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iText7-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iText7-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="iText-start" type="462c0819:PsiDirectoryNode" />
+              <item name="iText1-中文输出" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iText7-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iText7-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="iText-start" type="462c0819:PsiDirectoryNode" />
+              <item name="iText2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iText7-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iText7-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="iText-start" type="462c0819:PsiDirectoryNode" />
+              <item name="iText3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iText7-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iText7-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="iText-start" type="462c0819:PsiDirectoryNode" />
+              <item name="iText4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iText7-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iText7-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="iText-start" type="462c0819:PsiDirectoryNode" />
+              <item name="iText5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iText7-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iText7-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="iText-start" type="462c0819:PsiDirectoryNode" />
+              <item name="iText6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iText7-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iText7-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="iText-start" type="462c0819:PsiDirectoryNode" />
+              <item name="iText7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iText7-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iText7-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="iText-start" type="462c0819:PsiDirectoryNode" />
+              <item name="iText-buildingblock-1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iText7-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iText7-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="iText-start" type="462c0819:PsiDirectoryNode" />
+              <item name="parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/iText-start/parent/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.35747126" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\iText7-examples\iText-start" />
+      <recent name="D:\code\iText7-examples\iText-start\parent" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\iText7-examples\iText-start" />
+      <recent name="D:\code\iText7-examples" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df3e61ae-0719-425e-a902-5612f61888a9" name="Default Changelist" comment="" />
+      <created>1570700633600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570700633600</updated>
+      <workItem from="1570700637321" duration="171000" />
+      <workItem from="1570776352294" duration="315000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="486000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-328" y="-1448" width="2576" height="1416" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25198728" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="PlantUML" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/iText-start/iText1/src/main/java/C01E01_HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#1113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iText-start/parent/src/main/java/C01E01_HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iText-start/parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iText-start/iText1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iText-start/iText1-中文输出/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iText-start/iText2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iText-start/iText3/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iText-start/iText4/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iText-start/iText5/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iText-start/iText6/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iText-start/iText7/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iText-start/iText-buildingblock-1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35747126" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35747126" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

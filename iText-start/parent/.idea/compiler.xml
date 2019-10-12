@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="iText-1 (2)" />
+        <module name="iText-1-chinese" />
+        <module name="iText-buildingblock-1" />
+        <module name="iText2" />
+        <module name="iText3" />
+        <module name="iText4" />
+        <module name="iText5" />
+        <module name="iText6" />
+        <module name="iText7" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="iText-1 (1)" target="1.5" />
+      <module name="iText-1 (2)" target="1.5" />
+      <module name="iText-1-chinese" target="1.5" />
+      <module name="iText-buildingblock-1" target="1.5" />
+      <module name="iText2" target="1.5" />
+      <module name="iText3" target="1.5" />
+      <module name="iText4" target="1.5" />
+      <module name="iText5" target="1.5" />
+      <module name="iText6" target="1.5" />
+      <module name="iText7" target="1.5" />
+      <module name="parent" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
